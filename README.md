@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandeep Singh</h1>
-<h3 align="center">MERN Stack Developer | Nextjs </h3>
+<h3 align="center">MERN Stack Developer | Full Stack developer </h3>
 
 ---
 ![](https://komarev.com/ghpvc/?username=sandeepkr-79&color=blue)
@@ -10,8 +10,6 @@
 - 🔭 I’m currently working on MERN Stack Projects  
 - 🌱 I’m learning Advanced Backend & System Design  
 - 💬 Ask me about React, Node, MongoDB  
-- 🎯 Goal:Full Stack Developer  
-
 ---
 
 ## 🛠️ Tech Stack
@@ -39,7 +37,7 @@
 
 ## 🌐 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/your-link  
+- LinkedIn: https://linkedin.com/in/
 - Email: 79sandeepkr@gmail.com
 
 <!--
